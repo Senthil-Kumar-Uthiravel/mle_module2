@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Assignment/ML_Modules/Module_2/mlruns/1/bcca73d0d95b4bee90bd40963c46b6ed/artifacts
+end_time: 1677832998521
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: bcca73d0d95b4bee90bd40963c46b6ed
+run_uuid: bcca73d0d95b4bee90bd40963c46b6ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677832744386
+status: 3
+tags: []
+user_id: senthil_2842
